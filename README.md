@@ -1,0 +1,2 @@
+# Non-Spontaneous-Ultraviolet-Breaking-of-Supersymmetry-and-Dynamical-Mass-Generation
+Marco axiomático no perturbativo. Operador de Incertidumbre Relativa Asintótica. Análisis complejo, la teoría de operadores en espacios de Hilbert y la topología diferencial. Resolución Asintótica de Singularidades y Operadores de Frontera Cuántica. Unificación Asintótica No Conmutativa (\([x^\mu, x^\nu] \neq 0\)).
